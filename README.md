@@ -1,4 +1,4 @@
-# TheZenPerformer
+# The Zen Performer®
 
 Managing emotions through images is among the most difficult challenges to overcome within an organization. Images can help to share emotions or even better to share a vision. Many papers during the past years explored problems related to images identification or classification. 
 
