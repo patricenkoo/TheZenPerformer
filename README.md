@@ -2,7 +2,8 @@
 
 Managing emotions through images is among the most difficult challenges to overcome within an organization. Images can help to share emotions or even better to share a vision. Many papers during the past years explored problems related to images identification or classification. 
 
-Deep Coaching, a Convolutional Neural Network embedded in a Reinforcement Learning Model, called The Zen Performer®, will be used to explore the possibility to use generated images in order to improve the communication between different agents within an organization.
+Deep Coaching, a Convolutional Neural Network embedded in a Reinforcement Learning Model, called The Zen Performer®, is used to generate images in order to improve the communication between different agents within an organization.
+
 According to the 2015 Davos World Economic Forum, 80% of employees feel stress within their working environment. The Zen Performer® is built to help people to better manage their emotions.
 
 Technology can give the opportunity to employees to better manage their emotions, and to companies to alter their the business cultures for the better of our society. 
